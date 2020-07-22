@@ -1,5 +1,0 @@
-This is line1 created in master
-This is line2 created in master
-
-This is line3 created in master
-This is line4 created in master
